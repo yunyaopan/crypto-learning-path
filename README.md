@@ -26,8 +26,19 @@ As a beginner, I am sure you have lots of questions and I believe it's best to l
   - How do we ensure people only spend what they have in their pocket?/ How do we define what's in their pocket?/ How do I proove my money is indeed mine?
   - How do we prevent people to spend their money simultaneously more than once(the double spending problem)?
 
+## What is Ethereum? How is it different from Bitcoin?
+- Simply put, the main difference is as follows:
+  -  Bitcoin only tracks transactions
+  -  Ethereum tracks transactions + allow people to program around how they would like to transact
 
-- 
-- 
+## What does it mean to "program transactions"? What is smart contract?
+- [Deploy your first Solidity smart contract with Remix IDE](https://www.youtube.com/watch?v=bZKVfXmzRDw&t=916s)
+  - 30 mins video. See the beauty of smart contract: how easy it is to program a "contract" that collects and sends money in a way defined by you.
+- [Buildspace](https://buildspace.so)
+  - Learn by building simple projects. It's an excellent learning experience: content is well-explained and you also get to interact with your cohort on Discord. Check out [the project I built with Buildspace](https://twitter.com/panyunyao/status/1453239167488561164).
+- [Popular contract templates](https://github.com/marcelc63/popular-contract-templates)
+  - A repository of well written smart contracts  
+- [Solidity by example](https://solidity-by-example.org)
+  - Best go-to resource for Solidity specifics
 
 
