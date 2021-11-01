@@ -41,4 +41,6 @@ As a beginner, I am sure you have lots of questions. I believe it's best to let 
 - [Solidity by example](https://solidity-by-example.org)
   - Best go-to resource for Solidity specifics
 
-
+## Transaction fee is quite high on Ethereum. Is there any plan to fix this?
+- [The ultimate Ethereum scaling strategy?](https://www.youtube.com/watch?v=7pWxCklcNsU)
+  - 17 mins video. Gives a good overview of the 3 directions of scaling Ethereum as well as detailed explaination to one of the strategy - rollup.  
