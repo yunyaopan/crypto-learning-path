@@ -1,8 +1,8 @@
 # Who is this guide for?
-Anyone who are interested to learn about blockchain and cryptocurrencies. 
+Anyone who are interested to learn about blockchain and cryptocurrencies. Especially good for visual learner like me!
 
 # How is this guide structured?
-As a beginner, I am sure you have lots of questions and I believe it's best to let those questions to guide your learning journey. Therefore, this guide is structured as a set of questions and suggested resources that answer the question.
+As a beginner, I am sure you have lots of questions. I believe it's best to let those questions to guide your learning journey. Therefore, this guide is structured as a set of questions and suggested resources that answer the question.
 
 ## What is blockchain?
 - [A visual guide- Blockchain explained](http://graphics.reuters.com/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html)
